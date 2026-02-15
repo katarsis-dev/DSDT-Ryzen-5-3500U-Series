@@ -17,8 +17,9 @@
 ---
 
 ## 2. GPU Memory Clock Lock in some of frequency **(Not Fixed)**
-# Its not fixed its just pure driver bug, idk why but in my experiment the trigger that make my memory clock full and stuck on some frequency its because im using brave browser, idk is it cause brave itself, or its just cause its chromium base application
-# next time i will try using different driver , changing kernel for me not changing anything
+# Its not fixed its just pure driver bug 
+idk why but in my experiment the trigger that make my memory clock full and stuck on some frequency its because im using brave browser, idk is it cause brave itself, or its just cause its chromium base application
+next time i will try using different driver , changing kernel for me not changing anything
 *(Most likely problem on `amdgpu` driver, so i cant do anything for now)*
 
 ### What have I tried?
