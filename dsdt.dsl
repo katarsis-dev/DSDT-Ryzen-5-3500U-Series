@@ -1,23 +1,4 @@
-/*
- * Intel ACPI Component Architecture
- * AML/ASL+ Disassembler version 20250404 (64-bit version)
- * Copyright (c) 2000 - 2025 Intel Corporation
- * 
- * Disassembling to symbolic ASL+ operators
- *
- * Disassembly of dsdt.dat
- *
- * Original Table Header:
- *     Signature        "DSDT"
- *     Length           0x00006BA3 (27555)
- *     Revision         0x02
- *     Checksum         0xBD
- *     OEM ID           "ALASKA"
- *     OEM Table ID     "A M I "
- *     OEM Revision     0x1072009A (275906714)
- *     Compiler ID      "INTL"
- *     Compiler Version 0x20250404 (539296772)
- */
+
 DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x1072009A)
 {
     External (_PR_.P000.PPCV, UnknownObj)
